@@ -6,6 +6,10 @@ An end-to-end data science project analyzing the UCI Heart Disease Statlog datas
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+### 🚀 [Live Demo](https://heart-disease-predictor-bilal.streamlit.app)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-disease-predictor-bilal.streamlit.app)
+
 ---
 
 ## 📌 Project Overview
