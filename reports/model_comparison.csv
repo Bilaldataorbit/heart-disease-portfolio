@@ -1,0 +1,6 @@
+,ROC-AUC,Accuracy,F1
+Logistic Regression,0.9097,0.8284,0.7982
+Random Forest,0.901,0.8145,0.7884
+Gradient Boosting,0.88,0.8006,0.7816
+SVM (RBF),0.9033,0.8195,0.7905
+KNN (k=7),0.8801,0.8148,0.7769

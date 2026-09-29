@@ -1,0 +1,7 @@
+,0
+Best Model,Logistic Regression (Tuned)
+Best Params,"{'model__C': 0.1, 'model__penalty': 'l2', 'model__solver': 'lbfgs'}"
+CV ROC-AUC,0.9119
+Test ROC-AUC,0.925
+Test Accuracy,0.8704
+Test F1,0.8627
