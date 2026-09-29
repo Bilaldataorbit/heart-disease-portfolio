@@ -114,7 +114,7 @@ heart-disease-portfolio/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/heart-disease-portfolio.git
+git clone https://github.com/Bilaldataorbit/heart-disease-portfolio.git
 cd heart-disease-portfolio
 ```
 
@@ -220,7 +220,7 @@ streamlit run app.py
 
 **Bilal Raza**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [Bilaldataorbit](https://github.com/Bilaldataorbit)
 - LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
 
 > ⚠️ Update the GitHub and LinkedIn links once accounts are created.
